@@ -8,6 +8,7 @@ const layout = ({children, analytics, team}: {
   return (
     <div>
       {children}
+      {team}
     </div>
   );
 };
