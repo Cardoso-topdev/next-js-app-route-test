@@ -1,5 +1,9 @@
 import React from 'react';
 
+/**
+ * 
+ * @returns team page
+ */
 const page = () => {
   return (
     <div>
